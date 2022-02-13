@@ -51,7 +51,7 @@ const SignIn = () => {
             <div className="pageContainer">
                 <header>
                     <p className="pageHeader">
-                        Welcome Back, Bitch!
+                        Welcome Back!
                     </p>
                 </header>
 
@@ -93,7 +93,7 @@ const SignIn = () => {
                 {/* Google Oauth */}
                 <OAuth />
                 <Link to='/sign-up' className='registerLink'>
-                    Sign Up, Baby!
+                    Sign Up
                 </Link>
             </div>
         </>
